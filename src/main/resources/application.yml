@@ -3,4 +3,4 @@ server:
 spring:
   data:
     mongodb:
-      uri:  mongodb+srv://oliveraluis:oliveraluis@project.wtwtmii.mongodb.net/digitalwallet-wallet?retryWrites=true&w=majority
+      uri:  mongodb+srv://fpaucarcaceres:XUWOIlmJ07eKGvEQ@digitalwallet.cxokdkr.mongodb.net/dw-customer?retryWrites=true&w=majority
