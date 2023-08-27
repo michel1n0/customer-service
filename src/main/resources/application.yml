@@ -1,1 +1,6 @@
-
+server:
+  port: 9001
+spring:
+  data:
+    mongodb:
+      uri:  mongodb+srv://fpaucarcaceres:XUWOIlmJ07eKGvEQ@digitalwallet.cxokdkr.mongodb.net/dw-customer?retryWrites=true&w=majority
